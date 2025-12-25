@@ -1,0 +1,5 @@
+tradingview_ta
+pandas
+plotly
+streamlit
+scikit-learn
